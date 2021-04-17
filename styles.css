@@ -1,0 +1,95 @@
+body {
+    margin: 0px auto;
+}
+
+.menu-top {
+    background-color: aliceblue;
+    height: 65px;
+    width: 100%;
+    position: fixed;
+}
+
+.logo {
+    height: 65px;
+    float: right;
+}
+
+.trangchu {
+    height: auto;
+}
+
+.trangchu img {
+    max-width: 100%;
+    margin-top: 65px;
+}
+
+.vechungtoi {
+    height: auto;
+}
+
+.img_vechungtoi {
+    margin-left: 250px;
+    width: 370px;
+    float: left;
+}
+
+.img_vechungtoi_3cham {
+    margin-left: 700px;
+    width: 276px;
+}
+
+.img_vechungtoi_text {
+    width: 386px;
+}
+
+.arena2020 {
+    background-color: bisque;
+    height: 1000px;
+}
+
+.dangkithamgia {
+    background-color: blueviolet;
+    height: 200px;
+}
+
+.sukien {
+    background-color: antiquewhite;
+    height: 300px;
+}
+
+.doitac {
+    background-color: blue;
+    height: 500px
+}
+
+.menu-top ul {
+    margin: 0px auto;
+    padding: 0px;
+}
+
+.menu-top ul li {
+    list-style: none;
+    float: left;
+    margin: 20px;
+}
+
+.menu-top ul li a {
+    text-decoration: none;
+    display: block;
+    line-height: 20px;
+    padding: 0px 10px 0px 10px;
+}
+
+.menu-top ul:hover li {
+    opacity: 1;
+}
+
+.menu-top ul li:hover {
+    opacity: 1;
+}
+
+.menu-top ul li:hover a {
+    background-color: rgb(247, 182, 62);
+    color: rgb(255, 255, 255);
+    height: 30px;
+}
